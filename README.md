@@ -1,6 +1,6 @@
 # Bot vs. Human Detection on Web Forms via Keystroke Dynamics
 
-**Course:** UML501 — Machine Learning  
+**Course:** UML501: Machine Learning  
 **Syllabus Modules:** Unit 2 (Data Pre-processing) · Unit 4 (Classification)
 
 A passive, privacy-preserving machine learning pipeline that distinguishes genuine human web-form typing from automated bots (fixed-delay scripts, uniform/Gaussian jitter bots, and distribution-matched stealth bots) using timing metadata only (`keydown`/`keyup` intervals)—without visual CAPTCHAs or storing typed text.
